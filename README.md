@@ -31,6 +31,6 @@ My goal for 2025:
 - 👯 I’m looking to collaborate on: small data projects or automation tools  
 - 🤔 I’m looking for help with: clean code practices and ML pipelines  
 - 💬 Ask me about: pandas tricks, web scraping, Git + pre-commit setup  
-- 📫 How to reach me: **qbaniew.dev@gmail.com**  
+- 📫 How to reach me: **jkn@int.pl**  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I track my learning time using a work-time app (Stempeluhr Pro 😄)
